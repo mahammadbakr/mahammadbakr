@@ -9,14 +9,12 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
 </samp>
 
 ### 📕 GitHub Profile
-<details> 
-    <img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=mahammadbakr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=mahammadbakr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="My Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbakr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 
 ### My Skills
-
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
