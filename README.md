@@ -2,12 +2,6 @@
 <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Native-Android%20Developer-red"> </a>
 
 ![Profile views](https://gpvc.arturio.dev/mahammadbakr)
-
-<p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
-</p>
-
 	
 
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full Stack Developer-At Lezzoo-red"></a>
@@ -16,6 +10,18 @@
 <samp>
 My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile Applications With Flutter And Dart with +4 years experience in it, I used React Native for 1 year and Native Android Applications with Java +2 years, I'm Planning to be better with MERN Stack Tools , I’ve been Experienced in Development Field Since Last years of my High School. One of my Biggest Hobbies is Writing Codes And Handling Errors.
 </samp>
+
+
+<samp>
+I working as a leader in freelancing team named **SOLWAY** we have been done some projects and we are willing to finish alot more..
+![Our Website](https://www.sol-way.com)
+Our Profile here:
+</samp>
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
+</p>
+
 
 ### 📕 GitHub Profile
 <img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=mahammadbakr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
