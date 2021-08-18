@@ -1,6 +1,8 @@
 ## Hi, My name is Mohammed M Bakr
 <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Native-Android%20Developer-red"> </a>
 
+![Profile views](https://gpvc.arturio.dev/mahammadbakr)
+
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
@@ -66,7 +68,6 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
 
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mahammadbakr)
 
 
 ## Contact Me
