@@ -1,6 +1,13 @@
 ## Hi, My name is Mohammed M Bakr
 <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"> <img alt="GitHub" src=" https://img.shields.io/badge/Native-Android%20Developer-red"> </a>
 
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
+</p>
+
+	
+
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full Stack Developer-At Lezzoo-red"></a>
 
 
@@ -16,33 +23,42 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
 
 ### My Skills
 <p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"> <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a> <a href="#"><img alt="MaterialUi" src="https://img.shields.io/badge/-MaterialUi-00979D?logo=materialui&logoColor=white"></a>
-    <a href="#"><img alt="AntDesign" src="https://img.shields.io/badge/AntDesign%20-%23D00000.svg?logo=antdesign&logoColor=white"></a>
-    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS%20-%23013243.svg?logo=tailwindcss&logoColor=white"></a> <a href="#"><img alt="Mapbox" src="https://img.shields.io/badge/Mapbox-000000.svg?logo=mapbox&logoColor=white"></a>
-    <a href="#"><img alt="GoogleMaps" src="https://img.shields.io/badge/GoogleMaps-3DDC84?logo=googlemaps&logoColor=white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23150458.svg?logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23FF6F00.svg?logo=bootstrap&logoColor=white"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-%234ea94b.svg?logo=netlify&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-3DDC84?logo=blender&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-141E24?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23F37626.svg?logo=xampp&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-302E31?logo=discord&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+  
+  
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/github?icon=github&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/git?icon=git&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/graphql?icon=graphql&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/docker?icon=docker&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/maven?icon=maven&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/npm?icon=npm&label"></a>
+
 </p>
 
 
