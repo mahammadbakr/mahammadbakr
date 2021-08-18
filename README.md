@@ -49,8 +49,6 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-  
-  
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/github?icon=github&label"></a>
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label"></a>
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/git?icon=git&label"></a>
