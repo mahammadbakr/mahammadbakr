@@ -56,6 +56,13 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/docker?icon=docker&label"></a>
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/maven?icon=maven&label"></a>
     <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/npm?icon=npm&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/awesome?icon=awesome&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/atom?icon=atom&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/deepscan?icon=deepscan&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/terminal?icon=terminal&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/postgresql?icon=postgresql&label"></a>
+    <a href="#"><img alt="HTML" src="https://badgen.net/badge/icon/cocoapods?icon=cocoapods&label"></a>
+
 
 </p>
 
