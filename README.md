@@ -1,10 +1,10 @@
 ## Hi, My name is Mohammed M Bakr
 
-<a href="#"><img alt="Senior Flutter Developer" src="https://img.shields.io/badge/Senior-Flutter%20Developer-lightgrey"></a>
-<a href="#"><img alt="Full Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"><img alt="Native Android Developer" src="https://img.shields.io/badge/Native-Java%20Developer-lightgrey"></a>  
-
-
 ![Profile views](https://gpvc.arturio.dev/mahammadbakr)
+
+
+<a href="#"><img alt="Senior Flutter Developer" src="https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>
+<a href="#"><img alt="Full Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"><img alt="Native Android Developer" src="https://img.shields.io/badge/Native-Java%20Developer-red"></a>  
 	
 
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full Stack Developer-At Lezzoo-red"></a>
