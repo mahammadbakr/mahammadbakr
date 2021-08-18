@@ -14,7 +14,11 @@ My Name is Mohammed Bakr, I’m Senior Level Flutter Developer, I Develop Mobile
 
 <samp>
 I working as a leader in freelancing team named **SOLWAY** we have been done some projects and we are willing to finish alot more..
+</samp>
+
 ![Our Website](https://www.sol-way.com)
+
+<samp>
 Our Profile here:
 </samp>
 <p>
