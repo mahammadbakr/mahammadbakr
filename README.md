@@ -25,8 +25,8 @@ I working as a leader in freelancing team named **SOLWAY** we have been done som
 Our Portfolio here:
 </samp>
 <p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
+    <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+    <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
 </p>
 
 
