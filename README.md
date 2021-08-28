@@ -20,10 +20,11 @@ I working as a leader in freelancing team named **SOLWAY** we have been done som
 </samp>
 
 
+Our website Sollway here: 
 <a href="https://www.sol-way.com"><img alt="GitHub" src="https://img.shields.io/badge/Website-Solway Software-yellow"></a>
 
 <samp>
-Our Portfolio here:
+Our Portfolio as Solway here:
 </samp>
 <p>
     <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
