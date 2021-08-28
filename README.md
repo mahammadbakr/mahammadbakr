@@ -84,8 +84,7 @@ Our Portfolio here:
 
 ## Contact Me
 
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Email 1-mahammadbakr77@gmail.com-white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Email 2-mahammad@sol-way.com-white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Email -mahammadbakr77@gmail.com-white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Phone 1-+964 750 228 9291-white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Phone 2-+964 773 085 1276-white"></a>
 
