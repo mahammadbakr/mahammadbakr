@@ -89,7 +89,7 @@ Our Portfolio here:
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Phone 2-+964 773 085 1276-white"></a>
 
 <p>
-     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+     <a href="https://wa.me/+964-(750)2289291"><img alt="HTML" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
