@@ -20,7 +20,7 @@ I working as a leader in freelancing team named **SOLWAY** we have been done som
 </samp>
 
 
-<a href="https://www.sol-way.com"><img alt="GitHub" src="https://img.shields.io/badge/Website-Solway Software-yellow"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full Stack Developer-At Lezzoo-red"></a>
+<a href="https://www.sol-way.com"><img alt="GitHub" src="https://img.shields.io/badge/Website-Solway Software-yellow"></a>
 
 <samp>
 Our Portfolio here:
@@ -84,9 +84,11 @@ Our Portfolio here:
 
 ## Contact Me
 
-Email (1) : **mahammadbakr77@gmail.com**
-Email (2) : **mahammad@sol-way.com**
-Phone : **+964 750 228 9291**
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Email 1-mahammadbakr77@gmail.com-white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Email 2-mahammad@sol-way.com-white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Phone 1-+964 750 228 9291-white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Phone 2-+964 773 085 1276-white"></a>
+
 <p>
      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
