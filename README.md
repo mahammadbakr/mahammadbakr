@@ -23,9 +23,11 @@ I working as a leader in freelancing team named **SOLWAY** we have been done som
 
 <samp>
 Our website Sollway here:
-	
 </samp>
+
+<p>
 <a href="https://www.sol-way.com"><img alt="GitHub" src="https://img.shields.io/badge/Website-Solway Software-yellow"></a>
+</p>
 
 
 <samp>
