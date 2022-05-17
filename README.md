@@ -7,8 +7,7 @@
 <a href="#"><img alt="Full Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"><img alt="Native Android Developer" src="https://img.shields.io/badge/Native-Java%20Developer-red"></a>  
 	
 
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Full Stack Developer-At Lezzoo-red"></a>
-
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> 
 
 <samp>
 My Name is Mohammed Bakr, I’m Senior Flutter Developer, I Develop Mobile Applications With Flutter And Dart with 4 years experience in it, Also I used React Native  and Native Android Applications with Java, I’ve been Experienced in Development Field Since Last years of my High School, I'm Also Full Stack MERN developer since i use react, mongodb, node js and express js for backend side and web development. One of my Biggest Hobbies is Writing Codes And Handling Errors.
