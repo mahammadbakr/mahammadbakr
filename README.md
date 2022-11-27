@@ -40,6 +40,8 @@ Our Portfolio as Solway here:
     <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
 </p>
 
+### Star Dev
+[![Check out mahammadbakr's profile on stardev.io](https://stardev.io/developers/mahammadbakr/badge/languages/global.svg)](https://stardev.io/developers/mahammadbakr)
 
 ### 📕 GitHub Profile
 <img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=mahammadbakr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
