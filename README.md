@@ -10,7 +10,7 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> 
 
 <samp>
-My Name is Mohammed Bakr, I’m Senior Flutter Developer, I Develop Mobile Applications With Flutter And Dart with 4 years experience in it, Also I used React Native  and Native Android Applications with Java, I’ve been Experienced in Development Field Since Last years of my High School, I'm Also Full Stack MERN developer since i use react, mongodb, node js and express js for backend side and web development. One of my Biggest Hobbies is Writing Codes And Handling Errors.
+My Name is Mohammed Bakr, I’m Senior Flutter Developer With +4 years experience in it, I'm Also a Full Stack Engineer,I use Node js and express js for backend side and Next js for web development. One of my Biggest Hobbies is Writing Codes And Handling Errors.
 	
 </samp>
 
